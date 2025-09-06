@@ -4,6 +4,9 @@ The full adder adds three single-bit input and produce two single-bit output. Th
 <img width="367" height="168" alt="image" src="https://github.com/user-attachments/assets/a3efcd07-f5c8-49b0-b619-f1a12993e10f" />
 <img width="723" height="349" alt="image" src="https://github.com/user-attachments/assets/e7a996e0-9de4-43e2-affa-060e38932dae" />
 
+<img width="661" height="201" alt="image" src="https://github.com/user-attachments/assets/609ee36d-cf7a-4779-8117-0b0a361dfd0c" />
+
+
 Output: <br>
 S = A ^ B ^ Cin <br>
 Cout = A·B + B·Cin + A·Cin <br>
