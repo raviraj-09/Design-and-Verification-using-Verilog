@@ -1,3 +1,15 @@
 Half Adder is a basic combinational design that can add two single bits and results to a sum and carry bit as an output.
 
-<img width="685" height="231" alt="image" src="https://github.com/user-attachments/assets/ce15ad83-901e-4841-a96f-e2e8d1da984a" />
+<img width="616" height="252" alt="image" src="https://github.com/user-attachments/assets/ab74fcee-d631-49ac-b50e-cdd745fad419" />
+<img width="682" height="337" alt="image" src="https://github.com/user-attachments/assets/c7d7b52a-eb27-4eb9-971b-b9467236c9ee" />
+<img width="658" height="207" alt="image" src="https://github.com/user-attachments/assets/5a919d12-e11c-41ca-8630-1384ef095e47" />
+
+Output:
+S = A ^ B
+Cout = A · B
+
+
+
+
+As half adder considers only two bits so along with the addition of two single bits, it can not accommodate an extra carry bit from the previously generated result. Hence, it is called a half-adder. A full adder is designed to accommodate the extra carry bit from the previous stage.
+
