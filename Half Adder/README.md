@@ -6,8 +6,9 @@ Half Adder is a basic combinational design that can add two single bits and resu
 Output:
 S = A ^ B <br>
 Cout = A · B
-<img width="745" height="252" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3ebc2174-fccc-4ad5-9f1c-3aaf5f1c3fd6" />
 
+
+<img width="745" height="252" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3ebc2174-fccc-4ad5-9f1c-3aaf5f1c3fd6" />
 <img width="1600" height="263" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3bc401b7-8612-4eee-9d12-0c36709fe0c3" />
 
 
