@@ -4,7 +4,7 @@ Half Adder is a basic combinational design that can add two single bits and resu
 <img width="658" height="207" alt="image" src="https://github.com/user-attachments/assets/5a919d12-e11c-41ca-8630-1384ef095e47" />
 
 Output:
-S = A ^ B
+S = A ^ B \t
 Cout = A · B
 
 <img width="1600" height="263" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3bc401b7-8612-4eee-9d12-0c36709fe0c3" />
